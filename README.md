@@ -33,10 +33,25 @@ I am Lance Kevin Bongayan, and I have a flair for coding and database management
 ![](https://streak-stats.demolab.com/?user=lancekevinbongayan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lancekevinbongayan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
+### 📫 Let's Connect!
+- **LinkedIn:** [Lance Kevin Bongayan](https://www.linkedin.com/in/lance-kevin-bongayan-b3aa1139a/?skipRedirect=true)
+- **Email:** [lancekev.bongayan@gmail.com](mailto:lancekev.bongayan@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Lance's GitHub Stats" />
+</p>
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://komarev.com/ghpvc/?username=lancekevinbongayan&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
