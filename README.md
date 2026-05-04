@@ -24,22 +24,27 @@ My journey in tech started when I took the **BS Information Technology** program
 ## 💻 Skill Sets
 ### Programming
 - Java  
-- JavaScript  
+- JavaScript
+- Python
 
 ### Databases
-- IBM DB2 Cloud  
+- IBM DB2 Cloud
+- MongoDB
+- Oracle
 
 ### Tools
 - Lucidchart  
 - Jaspersoft Studio  
-- Eclipse  
+- Eclipse
+- IntelliJ Studio
+- PyCharm Studio
 - HTML  
 
 ---
 
 ## 📫 Contact Me
-- 🔗 LinkedIn: [LinkedIn profile link](https://linkedin.com)  
-- 📧 Email: lancekev.bongayan@gmail.com  
+- 🔗 LinkedIn: [LinkedIn profile link](https://www.linkedin.com/in/lance-kevin-bongayan-b3aa1139a/)
+- 📧 Email: lancekev.bongayan@gmail.com
 
 ---
 
