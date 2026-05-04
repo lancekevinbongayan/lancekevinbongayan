@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Lance Kevin Bongayan
 
-<!--
-**lancekevinbongayan/lancekevinbongayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am **Lance Kevin Bongayan**, and I have a flair for coding and database management skills.  
+I thrive on tackling complex problems and crafting elegant solutions.  
+My journey in tech started when I took the **BS Information Technology** program.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- **BS Information Technology**  
+  *New Era University*  
+  *2021 – Present*
+
+---
+
+## 📜 Certifications
+- [NoSQL and DBaaS 101](https://education.oracle.com/nosql-and-dbaas-101)  
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://education.oracle.com/oracle-cloud-data-management-2023-certified-foundations-associate)  
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://education.oracle.com/oracle-cloud-infrastructure-2023-certified-foundations-associate)  
+
+---
+
+## 💻 Skill Sets
+### Programming
+- Java  
+- JavaScript  
+
+### Databases
+- IBM DB2 Cloud  
+
+### Tools
+- Lucidchart  
+- Jaspersoft Studio  
+- Eclipse  
+- HTML  
+
+---
+
+## 📫 Contact Me
+- 🔗 LinkedIn: [LinkedIn profile link](https://linkedin.com)  
+- 📧 Email: lancekev.bongayan@gmail.com  
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
