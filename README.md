@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am Lance Kevin Bongayan, and I have a flair for coding and database management skills.<br>I thrive on tackling complex problems and crafting elegant solutions.<br>My journey in tech started when I took the BS Information Technology program.
+# 💫 Hi! I am Lance Kevin Bongayan!
+I have a flair for coding and database management skills.<br>I thrive on tackling complex problems and crafting elegant solutions.<br>My journey in tech started when I took the BS Information Technology program.
 
 - 🔭 I’m currently working on sharpening my full-stack and database architecture skills.
 - 🌱 I’m currently learning advanced cloud infrastructure and data warehousing.
@@ -8,6 +8,11 @@ I am Lance Kevin Bongayan, and I have a flair for coding and database management
 ---
 
 ### 🎓 Education
+
+**STEM**  
+*Southeast Asia Institute of Trade and Technology*  
+*2019 – 2021*
+
 **BS Information Technology**  
 *New Era University*  
 *2021 – Present*
@@ -32,18 +37,6 @@ I am Lance Kevin Bongayan, and I have a flair for coding and database management
 ![](https://github-readme-stats.shion.dev/api?username=lancekevinbongayan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=lancekevinbongayan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lancekevinbongayan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### 📫 Let's Connect!
-- **LinkedIn:** [Lance Kevin Bongayan](https://www.linkedin.com/in/lance-kevin-bongayan-b3aa1139a/?skipRedirect=true)
-- **Email:** [lancekev.bongayan@gmail.com](mailto:lancekev.bongayan@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Lance's GitHub Stats" />
-</p>
 
 ---
 
