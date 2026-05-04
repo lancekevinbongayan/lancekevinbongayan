@@ -1,28 +1,49 @@
-# 💫 Hi! I am Lance Kevin Bongayan!
-I have a flair for coding and database management skills.<br>I thrive on tackling complex problems and crafting elegant solutions.<br>My journey in tech started when I took the BS Information Technology program.
+<div align="center">
+  <h1>Hi, I'm Lance Kevin Bongayan! 👋</h1>
+  <p><i>I have a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions.</i></p>
 
-- 🔭 I’m currently working on sharpening my full-stack and database architecture skills.
-- 🌱 I’m currently learning advanced cloud infrastructure and data warehousing.
-- ⚡ Fun fact: I enjoy bridging the gap between technical logic and user-centric design.
+  <a href="INSERT_LINKEDIN_URL_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lancekev.bongayan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
 
 ### 🎓 Education
 
-**STEM**  
-*Southeast Asia Institute of Trade and Technology*  
-*2019 – 2021*
+| Program/Course | School | School Year |
+| :--- | :--- | :--- |
+| STEM| Southeast Asia Institute of Trade and Technology | 2019 - 2021 |
 
-**BS Information Technology**  
-*New Era University*  
-*2021 – Present*
+| Program/Course | School | School Year |
+| :--- | :--- | :--- |
+| Bachelor of Science in Information Technology | New Era University | 2021 - Present |
+
+---
+
+### 🛠 Skill Sets
+
+**Programming & Web**  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+**Databases**  
+<img src="https://img.shields.io/badge/IBM%20Db2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+
+**Tools**  
+<img src="https://img.shields.io/badge/Lucidchart-FF691F?style=for-the-badge&logo=lucid&logoColor=white" /> <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" /> <img src="https://img.shields.io/badge/JasperReports-000000?style=for-the-badge&logo=tibco&logoColor=white" />
 
 ---
 
 ### 📜 Certifications
-*   [NoSQL and DBaaS 101](https://cognitiveclass.ai/courses/nosql-and-dbaas-101)
-*   [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://education.oracle.com/oracle-cloud-data-management-2023-foundations-associate/pexam_1Z0-1105-23)
-*   [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://education.oracle.com/oracle-cloud-infrastructure-2023-foundations-associate/pexam_1Z0-1085-23)
+
+| Certificate | Issued by | Year |
+| :--- | :--- | :--- |
+| [NoSQL and DBaaS 101](https://cognitiveclass.ai/courses/nosql-and-dbaas-101) | Cognitive Class | 2026
+| [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://education.oracle.com/oracle-cloud-data-management-2023-foundations-associate/pexam_1Z0-1105-23) | Oracle | 2022
+| [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://education.oracle.com/oracle-cloud-infrastructure-2023-foundations-associate/pexam_1Z0-1085-23) | Oracle | 2022
 
 ---
 
