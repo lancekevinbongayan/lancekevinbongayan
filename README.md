@@ -1,6 +1,6 @@
 <div align="center">
   <img src="HeaderPhoto.jpeg" alt="Lance's Cosmic Header" width="100%" />
-  <h1>Hi, I'm Lance Kevin Bongayan! 👋</h1>
+  <h1>Hi, I'm Lance Kevin Bongayan! </h1>
   <p><i>I have a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions.</i></p>
 
   <a href="INSERT_LINKEDIN_URL_HERE">
