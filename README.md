@@ -41,7 +41,7 @@
 
 | Certificate | Issued by | Year |
 | :--- | :--- | :--- |
-| [NoSQL and DBaaS 101](https://cognitiveclass.ai/courses/nosql-and-dbaas-101) | Cognitive Class | 2026
+| [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/207d4fb3d6e14bab8b272987a73897ef#)| Cognitive Class | 2026
 | [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://education.oracle.com/oracle-cloud-data-management-2023-foundations-associate/pexam_1Z0-1105-23) | Oracle | 2022
 | [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://education.oracle.com/oracle-cloud-infrastructure-2023-foundations-associate/pexam_1Z0-1085-23) | Oracle | 2022
 
