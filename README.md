@@ -49,7 +49,7 @@
 ---
 
 ## Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kekekekevy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Lance-kevin-bongayan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lancekev.bongayan@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kekekekevy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lance-kevin-bongayan-b3aa1139a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lancekev.bongayan@gmail.com) 
 
 ---
 
