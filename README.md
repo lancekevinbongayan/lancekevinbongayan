@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="HeaderPhoto.jpeg" alt="Lance's Cosmic Header" width="100%" />
   <h1>Hi, I'm Lance Kevin Bongayan! </h1>
   <p><i>I have a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions.</i></p>
 
@@ -44,7 +43,6 @@
 | :--- | :--- | :--- |
 | [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/207d4fb3d6e14bab8b272987a73897ef#)| Cognitive Class | 2026
 | [Gemini Certified University Student](https://edu.google.accredible.com/21e03271-4804-4550-93e6-1abc98224ef6#acc.3C4op8UQ) | Google for Education | 2026
-| [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://education.oracle.com/oracle-cloud-infrastructure-2023-foundations-associate/pexam_1Z0-1085-23) | Oracle | 2022
 
 ---
 
